@@ -14,7 +14,7 @@ In this project I learned:
 
 1. **User Management**
 
-   - Users should are able to **sign up** and **log in**.
+   - Users are able to **sign up** and **log in**.
    - I implemented session persistence using **JWTs** to allow users to stay logged in.
 
 2. **Product Management**
@@ -50,7 +50,7 @@ In this project I learned:
 ## Installation
 
 1. Clone the repository
-2. Install backend dependencies:
+2. Install backend dependencies and run project:
 
    ```bash
    cd backend
@@ -62,7 +62,6 @@ In this project I learned:
 
 - Build responsive frontend for wineshop
 - Advanced filtering and search
--
 
 ## Contributing
 
