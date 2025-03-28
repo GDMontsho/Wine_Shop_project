@@ -50,7 +50,7 @@ In this project I learned:
 ## Installation
 
 1. Clone the repository
-2. Install frontend dependencies:
+2. Install backend dependencies:
 
    ```bash
    cd backend
